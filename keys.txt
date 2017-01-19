@@ -1,0 +1,12 @@
+Consumer Key (API Key)	ycFxKVE6a1Q7yoXn1S6qLbaq6
+Consumer Secret (API Secret)	oIM1Qomnck2FI0RICwQISrw8WMv1EM3Xka2uUbsmokl0Yp9Fs7
+Access Level	Read and write (modify app permissions)
+Owner	waf_ton
+Owner ID	186171840
+
+
+Access Token	186171840-7vG3u0fOUW9FBHB7JYvk9UB4vAMrE0qler0xfOjj
+Access Token Secret	Ju8Y0TXdwBNOPDu4dTSPSWBSJdUBtr9czMGEkmkrWc7NP
+Access Level	Read and write
+Owner	waf_ton
+Owner ID	186171840
